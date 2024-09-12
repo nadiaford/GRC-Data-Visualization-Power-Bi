@@ -1,0 +1,101 @@
+Risk ID,Risk Description,Risk Category,Risk Level,Compliance Area,Control Effectiveness,Incident Count,Incident Date,Mitigation Status
+RISK-001,Risk description 1,Operational,Medium,GDPR,Partially Effective,3,2023-12-03,In Progress
+RISK-002,Risk description 2,Operational,High,PCI DSS,Effective,12,2023-11-24,In Progress
+RISK-003,Risk description 3,Compliance,Medium,ISO 27001,Effective,1,2023-09-21,In Progress
+RISK-004,Risk description 4,Financial,High,GDPR,Partially Effective,15,2023-12-11,In Progress
+RISK-005,Risk description 5,Financial,Medium,NIST CSF,Partially Effective,7,2024-03-04,Not Started
+RISK-006,Risk description 6,Financial,High,ISO 27001,Effective,6,2024-07-19,In Progress
+RISK-007,Risk description 7,Operational,Low,ISO 27001,Partially Effective,14,2023-10-09,Not Started
+RISK-008,Risk description 8,Operational,High,NIST CSF,Ineffective,11,2024-02-11,Completed
+RISK-009,Risk description 9,Cybersecurity,High,ISO 27001,Ineffective,9,2024-04-29,Completed
+RISK-010,Risk description 10,Operational,Low,NIST CSF,Partially Effective,7,2023-11-22,Not Started
+RISK-011,Risk description 11,Operational,High,NIST CSF,Ineffective,7,2024-05-24,In Progress
+RISK-012,Risk description 12,Operational,High,ISO 27001,Ineffective,0,2024-03-11,Not Started
+RISK-013,Risk description 13,Financial,Medium,PCI DSS,Ineffective,6,2023-12-10,Completed
+RISK-014,Risk description 14,Financial,High,PCI DSS,Effective,12,2024-05-09,Not Started
+RISK-015,Risk description 15,Operational,Medium,NIST CSF,Ineffective,10,2023-09-14,Completed
+RISK-016,Risk description 16,Financial,Low,GDPR,Ineffective,8,2024-06-12,Not Started
+RISK-017,Risk description 17,Cybersecurity,Medium,NIST CSF,Partially Effective,2,2024-06-19,Not Started
+RISK-018,Risk description 18,Financial,Medium,NIST CSF,Ineffective,8,2023-10-21,Not Started
+RISK-019,Risk description 19,Cybersecurity,Low,NIST CSF,Effective,11,2024-02-15,Not Started
+RISK-020,Risk description 20,Compliance,Medium,PCI DSS,Effective,20,2023-11-16,Not Started
+RISK-021,Risk description 21,Operational,Low,PCI DSS,Partially Effective,16,2024-08-27,Completed
+RISK-022,Risk description 22,Financial,High,PCI DSS,Effective,12,2024-03-19,Not Started
+RISK-023,Risk description 23,Cybersecurity,High,NIST CSF,Effective,17,2023-10-01,Not Started
+RISK-024,Risk description 24,Compliance,Medium,GDPR,Ineffective,10,2023-12-12,Not Started
+RISK-025,Risk description 25,Compliance,High,PCI DSS,Ineffective,0,2024-07-18,In Progress
+RISK-026,Risk description 26,Financial,Low,ISO 27001,Effective,3,2024-02-26,Completed
+RISK-027,Risk description 27,Financial,High,ISO 27001,Partially Effective,8,2024-07-01,Not Started
+RISK-028,Risk description 28,Compliance,Low,ISO 27001,Partially Effective,5,2024-05-13,Completed
+RISK-029,Risk description 29,Operational,High,NIST CSF,Ineffective,18,2024-09-07,Not Started
+RISK-030,Risk description 30,Operational,Medium,ISO 27001,Effective,8,2024-04-17,In Progress
+RISK-031,Risk description 31,Cybersecurity,High,NIST CSF,Ineffective,1,2024-08-24,Completed
+RISK-032,Risk description 32,Operational,High,ISO 27001,Partially Effective,3,2024-08-03,In Progress
+RISK-033,Risk description 33,Compliance,High,GDPR,Effective,19,2024-04-23,In Progress
+RISK-034,Risk description 34,Compliance,Low,NIST CSF,Ineffective,13,2024-06-01,Not Started
+RISK-035,Risk description 35,Compliance,Low,ISO 27001,Ineffective,11,2024-03-15,Completed
+RISK-036,Risk description 36,Operational,Medium,PCI DSS,Partially Effective,10,2024-07-12,Completed
+RISK-037,Risk description 37,Cybersecurity,Low,NIST CSF,Ineffective,13,2024-03-30,Completed
+RISK-038,Risk description 38,Operational,High,PCI DSS,Partially Effective,19,2024-08-05,Completed
+RISK-039,Risk description 39,Cybersecurity,High,PCI DSS,Partially Effective,16,2024-06-10,Not Started
+RISK-040,Risk description 40,Operational,Low,PCI DSS,Effective,3,2024-03-04,Not Started
+RISK-041,Risk description 41,Compliance,High,PCI DSS,Effective,12,2023-12-16,In Progress
+RISK-042,Risk description 42,Compliance,Medium,ISO 27001,Ineffective,18,2023-12-12,Not Started
+RISK-043,Risk description 43,Financial,Medium,ISO 27001,Partially Effective,6,2024-05-02,Completed
+RISK-044,Risk description 44,Operational,Low,NIST CSF,Partially Effective,8,2024-06-18,Not Started
+RISK-045,Risk description 45,Operational,Low,NIST CSF,Effective,1,2024-03-21,In Progress
+RISK-046,Risk description 46,Financial,Medium,NIST CSF,Effective,13,2024-04-28,Completed
+RISK-047,Risk description 47,Compliance,Medium,ISO 27001,Partially Effective,0,2023-12-22,Completed
+RISK-048,Risk description 48,Operational,Low,NIST CSF,Effective,16,2023-10-11,In Progress
+RISK-049,Risk description 49,Financial,Low,PCI DSS,Ineffective,17,2023-12-26,In Progress
+RISK-050,Risk description 50,Operational,Low,ISO 27001,Partially Effective,6,2023-12-21,Completed
+RISK-051,Risk description 51,Cybersecurity,High,NIST CSF,Effective,11,2024-01-07,Not Started
+RISK-052,Risk description 52,Compliance,Low,PCI DSS,Ineffective,13,2024-03-28,Not Started
+RISK-053,Risk description 53,Cybersecurity,Low,NIST CSF,Partially Effective,2,2023-11-02,Completed
+RISK-054,Risk description 54,Compliance,High,GDPR,Ineffective,10,2023-12-06,Completed
+RISK-055,Risk description 55,Financial,Medium,NIST CSF,Ineffective,19,2024-05-23,Completed
+RISK-056,Risk description 56,Compliance,Low,GDPR,Partially Effective,10,2024-05-27,Not Started
+RISK-057,Risk description 57,Compliance,High,NIST CSF,Ineffective,3,2023-10-06,Not Started
+RISK-058,Risk description 58,Financial,Low,NIST CSF,Effective,9,2024-02-08,Completed
+RISK-059,Risk description 59,Compliance,Low,ISO 27001,Effective,16,2024-03-28,In Progress
+RISK-060,Risk description 60,Operational,High,ISO 27001,Effective,9,2024-02-11,Completed
+RISK-061,Risk description 61,Financial,Medium,GDPR,Ineffective,13,2023-11-27,Completed
+RISK-062,Risk description 62,Financial,High,ISO 27001,Effective,10,2024-02-13,Not Started
+RISK-063,Risk description 63,Financial,Low,PCI DSS,Ineffective,12,2024-08-08,Completed
+RISK-064,Risk description 64,Cybersecurity,Medium,PCI DSS,Effective,9,2024-04-13,Not Started
+RISK-065,Risk description 65,Cybersecurity,High,GDPR,Partially Effective,17,2024-05-23,In Progress
+RISK-066,Risk description 66,Compliance,High,PCI DSS,Ineffective,4,2024-07-21,Completed
+RISK-067,Risk description 67,Financial,Medium,PCI DSS,Ineffective,6,2024-06-18,In Progress
+RISK-068,Risk description 68,Compliance,Low,NIST CSF,Effective,13,2024-01-29,Completed
+RISK-069,Risk description 69,Operational,High,ISO 27001,Partially Effective,12,2023-09-15,In Progress
+RISK-070,Risk description 70,Financial,High,PCI DSS,Effective,5,2024-01-19,Not Started
+RISK-071,Risk description 71,Operational,High,PCI DSS,Effective,19,2024-06-13,Completed
+RISK-072,Risk description 72,Compliance,Low,ISO 27001,Partially Effective,18,2024-07-20,Completed
+RISK-073,Risk description 73,Cybersecurity,High,PCI DSS,Partially Effective,9,2024-08-25,In Progress
+RISK-074,Risk description 74,Compliance,Medium,PCI DSS,Effective,12,2024-02-12,Not Started
+RISK-075,Risk description 75,Operational,Medium,ISO 27001,Partially Effective,17,2024-06-11,In Progress
+RISK-076,Risk description 76,Financial,High,NIST CSF,Effective,0,2024-03-30,In Progress
+RISK-077,Risk description 77,Compliance,High,PCI DSS,Ineffective,9,2024-04-20,Not Started
+RISK-078,Risk description 78,Financial,Medium,ISO 27001,Effective,9,2023-12-02,In Progress
+RISK-079,Risk description 79,Cybersecurity,Medium,PCI DSS,Ineffective,6,2023-12-01,In Progress
+RISK-080,Risk description 80,Cybersecurity,High,PCI DSS,Effective,13,2024-02-18,Completed
+RISK-081,Risk description 81,Cybersecurity,Medium,NIST CSF,Partially Effective,18,2023-09-23,In Progress
+RISK-082,Risk description 82,Financial,Low,GDPR,Ineffective,19,2024-01-13,Completed
+RISK-083,Risk description 83,Compliance,Low,GDPR,Partially Effective,20,2024-05-17,Not Started
+RISK-084,Risk description 84,Financial,Low,ISO 27001,Ineffective,10,2024-02-07,In Progress
+RISK-085,Risk description 85,Financial,Low,GDPR,Ineffective,14,2023-11-12,Not Started
+RISK-086,Risk description 86,Compliance,Medium,ISO 27001,Effective,14,2024-03-01,Completed
+RISK-087,Risk description 87,Cybersecurity,Low,GDPR,Effective,14,2023-10-29,Completed
+RISK-088,Risk description 88,Cybersecurity,High,NIST CSF,Effective,6,2024-04-26,Completed
+RISK-089,Risk description 89,Compliance,High,ISO 27001,Effective,16,2023-09-22,In Progress
+RISK-090,Risk description 90,Financial,Low,GDPR,Partially Effective,15,2024-02-03,Completed
+RISK-091,Risk description 91,Financial,High,NIST CSF,Effective,5,2024-04-05,Completed
+RISK-092,Risk description 92,Cybersecurity,Low,GDPR,Effective,2,2023-09-22,In Progress
+RISK-093,Risk description 93,Operational,Low,PCI DSS,Ineffective,9,2024-05-04,In Progress
+RISK-094,Risk description 94,Operational,Low,PCI DSS,Partially Effective,16,2023-11-01,In Progress
+RISK-095,Risk description 95,Operational,High,NIST CSF,Partially Effective,20,2024-02-28,Completed
+RISK-096,Risk description 96,Financial,High,PCI DSS,Ineffective,19,2023-10-01,Completed
+RISK-097,Risk description 97,Financial,Low,PCI DSS,Ineffective,10,2024-01-29,In Progress
+RISK-098,Risk description 98,Cybersecurity,Low,ISO 27001,Effective,2,2023-11-29,In Progress
+RISK-099,Risk description 99,Operational,Low,GDPR,Partially Effective,7,2024-01-10,Not Started
+RISK-100,Risk description 100,Cybersecurity,Low,ISO 27001,Effective,9,2024-06-16,Not Started
